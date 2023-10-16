@@ -1,0 +1,20 @@
+/***********************************************************************************************************************************/
+/** estilo para styletext.html                                                                                                     */
+/*** autor: Zarcooooo                                                                                                              */
+/*version: 1                                                                                                                       */
+/*comentario: practicando css extremo                                                                                              */
+/***********************************************************************************************************************************/
+
+
+
+
+
+/*selectores de etiqueta*/
+ body {background-color: black;
+    color:white }
+h2 {color:salmon}
+    #encabezado1 {text-align: right;}
+        /*selector de claas, colectivo*/
+    .centrado{text-align: center;}
+    /* selector contextual, anade contexto , made deun selector separados con espacios */
+    .centrado b{color:red}
